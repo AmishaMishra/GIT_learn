@@ -22,5 +22,8 @@ public class book
 	{
 		this.title=title;
 	}
-	
+	public void test()
+	{ 
+		whateverrrrrrrrrrr
+	} 
 }
