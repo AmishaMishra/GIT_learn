@@ -24,6 +24,6 @@ public class book
 	}
 	public void test()
 	{ 
-		whateverrrrrrrrrrr
+		lalalala
 	} 
 }
