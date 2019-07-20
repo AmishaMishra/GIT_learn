@@ -2,6 +2,7 @@ public class book
 {
 	private int bookId;
 	private String author;
+	private String title;
 	private in price;
 
 	
@@ -17,4 +18,9 @@ public class book
 	{
 		this.author=author;
 	}
+	public void setTitle(String title)
+	{
+		this.title=title;
+	}
+	
 }
