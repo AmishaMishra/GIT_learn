@@ -13,4 +13,8 @@ public class book
 	{
 		return bookId;
 	}
+	public void setAuthor(String author)
+	{
+		this.author=author;
+	}
 }
